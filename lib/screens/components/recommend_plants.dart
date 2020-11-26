@@ -34,6 +34,13 @@ class RecommendPlants extends StatelessWidget {
             press: () {},
             price: 440,
           ),
+          RecommendPlantCard(
+            image: "assets/images/image_3.png",
+            title: "Samantha",
+            country: "Russia",
+            press: () {},
+            price: 440,
+          ),
         ],
       ),
     );
